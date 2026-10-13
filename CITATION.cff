@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or dataset, please cite the associated article."
+title: "HARE: Risk-Aware Residual Estimation for Food Waste Prediction in Industrial Catering"
+type: software
+authors:
+  - family-names: "B"
+    given-names: "Shalini"
+    email: "shalini.b2023@vitstudent.ac.in"
+  - family-names: "S.M"
+    given-names: "Yuvasri"
+    email: "yuvasri.sm2023@vitstudent.ac.in"
+  - family-names: "R"
+    given-names: "Anusha"
+    email: "anusha.r2023@vitstudent.ac.in"
+  - family-names: "J"
+    given-names: "Arun Pandian"
+    email: "arunpandian.j@vit.ac.in"
+license: MIT
+repository-code: "https://github.com/<your-username>/hare-food-waste-forecasting"
